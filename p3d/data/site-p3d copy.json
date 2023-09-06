@@ -1,0 +1,699 @@
+[
+    {
+        "template": "p3d-home.html",
+        "title": "Pure3D",
+        "file_name": "index.html",
+        "contentdata": {
+            "abstract": "Pure3D: Scholarly projects centered around 3D data.",
+            "description": "Building on the conventions of text-based digital scholarly projects,\nPURE3D provides tools to integrate multiple types of source materials\n(e.g., annotations, images, video, structured/unstructured data)\nand document the creation process (paradata),\nproviding users with direct access to the modelling and\ninterpretative choices creating a multimodal resource\nthat is impossible to replicate in print form.\n\nThe platform intends to target the unique needs and abilities\nof both the content creators\n(researchers, educators, cultural heritage managers)\nas well as the end-users (students, public, academics, etc.).\n\nPURE3D is aware of the issues that research-based 3D content creators may encounter\nin making their projects and data accessible on the web.\nFile size, format, technical know-how and funding are some of the issues.\nThe PURE3D platform acts as a preservation repository for projects,\ndeveloping a conceptual and methodological framework\nfor valorizing and evaluating 3D scholarship,\nso that the outputs of 3D digital scholarship\ncan meaningfully contribute to the whole of the academic ecosystem.",
+            "provenance": "### Project\n\n**PURE3D** was a three-year project funded by the\nPDI-SSH (Platform Digitale Infrastructuur–Social Sciences and Humanities)\nwith a mission to advance the virtual research environment\nthrough the development of an access infrastructure\nfor viewing interactive Digital Heritage and Digital Humanities 3D content online.\n\nThe Project was based out of the Faculty of Arts and Social Sciences\nat Maastricht University under the direction of\nDr. Costas Papadopoulos and Prof. Susan Schreibman.\n\nA number of partner institutions joined PURE3D as pilot projects\nor in advisory roles and technical support.\n\nInformation about the partner institutions and pilot projects\ncan be viewed in the Partners section of this website.\n\n### Software development\n\nBuilding Pure3D has taken place at the KNAW/HuC (Humanities Cluster).\n\n* [GitHub](https://github.com/CLARIAH/pure3dx)\n\n* [Technical documentation](https://clariah.github.io/pure3dx/control/index.html)\n\nPure3D makes use of 3D viewer software developed by others:\n\n* [Smithsonian Voyager](https://github.com/smithsonian/dpo-voyager)",
+            "title": "Pure3D"
+        },
+        "projects": [
+            {
+                "projectName": "Contested Memories: The Battle of Mount Street Bridge",
+                "projectId": "64649d1ef24ec1b737dcc48e",
+                "projectLink": "project_contested-memories-the-battle-of-mount-street-bridge.html",
+                "projectDescription": "The Battle of Mount Street Bridge 3D Scholarly Model\nis a 3D photorealistic construction of the area around Mount Street Bridge\nthat transports users back to a leafy suburb in Dublin, Ireland, in April 1916\nto better understand the spatial and temporal dimensions\nof one of the most important battles in the Easter Rising.\nDuring this battle, the first of the week-long event, against all odds,\na small group of Irish Volunteers held off two battalions of\nBritish soldiers for the better part of the day.\nThe goal of the project is to better understand the battle,\nbringing new insights to this century-old event. \n\nThe project contains four Voyager Instances\nthat help to tell both big narratives about the socio-political\ncontext of the 1916 Rising,\nthe events before, during and after the Battle of Mount Street Bridge,\nas well as the human toll of the Battle of Mount Street Bridge\non individuals from both sides of the conflict.\nThe 3D models of the neighborhood and individual buildings\noffer an interactive method of telling these stories.\nArchival images, records and oral accounts enrich the 3D model of the buildings\nso that the stories are authenticated by primary sources. ",
+                "projectAbstract": "The Battle of Mount Street Bridge 3D Scholarly Model\ndetails the events and actors of a key battle\nwhich occurred during the 1916 Easter Rising in Dublin, Ireland.",
+                "projectIsVisible": true,
+                "projectSubjects": ["a", "b", "c"]
+            },
+            {
+                "projectName": "Tokyo University Workshop 2022",
+                "projectId": "64649d1ff24ec1b737dcc491",
+                "projectLink": "project_tokyo-university-workshop-2022.html",
+                "projectDescription": "Two models were presented on the workshop:\n\n* A yurt\n* A Hurdy-Gurdy",
+                "projectAbstract": "The Tokyo University Workshop was held ...",
+                "projectIsVisible": true,
+                "projectSubjects": ["a", "d", "e"]
+            },
+            {
+                "projectName": "Diaconie Weeshuis",
+                "projectId": "64649d20f24ec1b737dcc494",
+                "projectLink": "project_diaconie-weeshuis.html",
+                "projectDescription": "The Diaconie Weeshuis does not exist anymore. It was demolished and replaced\nby a new building in 1888. The model was therefore based on historical maps,\ndepictions and 19th century photography. \n\nThe sources give some indications of the construction materials used for the\nwalls, windows, and roofs. No colour photography was invented before the\ndemolition of this building, so the best indication is gained from this 1785\ndrawing van H.P. Schouten. The building most likely had reddish bricks,\nsandstone blocks in the recessed arches on ground floor, and all woodwork\npainted off-white or yellow (although this may have changed over its\nlifetime). The gates and pediments on the roof were most likely of a kind of\nstone, either with natural surface or painted to match the woodwork. The\nshutters appear to have been painted in a greyish tone. From the other\ndepictions we know that the roof was covered with small diamond shaped slate\ntiles.",
+                "projectAbstract": "In the latter half of the 17th century, the Diaconie Weeshuis, an orphanage\nmanaged by a protestant church, proudly overlooked the Amstel river. It was\nlocated on former ‘Vlooienburg’, an island constructed in the Amstel for\nurban expansion around 1600. The orphanage was constructed in 1656, and stood\nfor 230 years before it got replaced by a new building in Neogothic style in\n1888. In the 1980s the entire neighbourhood was demolished to make space for\nthe new Amsterdam city hall and opera (nick named ‘stopera’).",
+                "projectIsVisible": true,
+                "projectSubjects": ["d", "g", "h"]
+            }
+        ]
+    },
+    {
+        "template": "p3d-all-projects.html",
+        "title": "Pure3D projects",
+        "file_name": "all-projects.html",
+        "projects": [
+            {
+                "projectName": "Contested Memories: The Battle of Mount Street Bridge",
+                "projectId": "64649d1ef24ec1b737dcc48e",
+                "projectLink": "project_contested-memories-the-battle-of-mount-street-bridge.html",
+                "projectDescription": "The Battle of Mount Street Bridge 3D Scholarly Model\nis a 3D photorealistic construction of the area around Mount Street Bridge\nthat transports users back to a leafy suburb in Dublin, Ireland, in April 1916\nto better understand the spatial and temporal dimensions\nof one of the most important battles in the Easter Rising.\nDuring this battle, the first of the week-long event, against all odds,\na small group of Irish Volunteers held off two battalions of\nBritish soldiers for the better part of the day.\nThe goal of the project is to better understand the battle,\nbringing new insights to this century-old event. \n\nThe project contains four Voyager Instances\nthat help to tell both big narratives about the socio-political\ncontext of the 1916 Rising,\nthe events before, during and after the Battle of Mount Street Bridge,\nas well as the human toll of the Battle of Mount Street Bridge\non individuals from both sides of the conflict.\nThe 3D models of the neighborhood and individual buildings\noffer an interactive method of telling these stories.\nArchival images, records and oral accounts enrich the 3D model of the buildings\nso that the stories are authenticated by primary sources. ",
+                "projectAbstract": "The Battle of Mount Street Bridge 3D Scholarly Model\ndetails the events and actors of a key battle\nwhich occurred during the 1916 Easter Rising in Dublin, Ireland.",
+                "projectIsVisible": true,
+                "projectSubjects": ["d", "g", "h"]
+            },
+            {
+                "projectName": "Tokyo University Workshop 2022",
+                "projectId": "64649d1ff24ec1b737dcc491",
+                "projectLink": "project_tokyo-university-workshop-2022.html",
+                "projectDescription": "Two models were presented on the workshop:\n\n* A yurt\n* A Hurdy-Gurdy",
+                "projectAbstract": "The Tokyo University Workshop was held ...",
+                "projectIsVisible": true,
+                "projectSubjects": ["a", "d", "e"]
+            },
+            {
+                "projectName": "Diaconie Weeshuis",
+                "projectId": "64649d20f24ec1b737dcc494",
+                "projectLink": "project_diaconie-weeshuis.html",
+                "projectDescription": "The Diaconie Weeshuis does not exist anymore. It was demolished and replaced\nby a new building in 1888. The model was therefore based on historical maps,\ndepictions and 19th century photography. \n\nThe sources give some indications of the construction materials used for the\nwalls, windows, and roofs. No colour photography was invented before the\ndemolition of this building, so the best indication is gained from this 1785\ndrawing van H.P. Schouten. The building most likely had reddish bricks,\nsandstone blocks in the recessed arches on ground floor, and all woodwork\npainted off-white or yellow (although this may have changed over its\nlifetime). The gates and pediments on the roof were most likely of a kind of\nstone, either with natural surface or painted to match the woodwork. The\nshutters appear to have been painted in a greyish tone. From the other\ndepictions we know that the roof was covered with small diamond shaped slate\ntiles.",
+                "projectAbstract": "In the latter half of the 17th century, the Diaconie Weeshuis, an orphanage\nmanaged by a protestant church, proudly overlooked the Amstel river. It was\nlocated on former ‘Vlooienburg’, an island constructed in the Amstel for\nurban expansion around 1600. The orphanage was constructed in 1656, and stood\nfor 230 years before it got replaced by a new building in Neogothic style in\n1888. In the 1980s the entire neighbourhood was demolished to make space for\nthe new Amsterdam city hall and opera (nick named ‘stopera’).",
+                "projectIsVisible": true,
+                "projectSubjects": ["a", "b", "c"]
+            }
+        ]
+    },
+    {
+        "template": "p3d-project.html",
+        "title": "Contested Memories: The Battle of Mount Street Bridge",
+        "file_name": "project_contested-memories-the-battle-of-mount-street-bridge.html",
+        "contentdata": {
+            "abstract": "The Battle of Mount Street Bridge 3D Scholarly Model\ndetails the events and actors of a key battle\nwhich occurred during the 1916 Easter Rising in Dublin, Ireland.",
+            "audience": [
+                "Digital Humanities",
+                "Early Modern History",
+                "Irish History"
+            ],
+            "contributor": [
+                "Kelly Gillikin Schoueri",
+                "Costas Papadopoulos",
+                "Billy Donnelly",
+                "Luca Moines",
+                "John Kaulakis",
+                "Sandra Boheme Martinez"
+            ],
+            "coverage": {
+                "period": "1900-1950 CE",
+                "place": "British Isles"
+            },
+            "creator": "Susan Schreibman",
+            "dateAccepted": "2022-10-12",
+            "dateSubmitted": "2022-04-18",
+            "description": "The Battle of Mount Street Bridge 3D Scholarly Model\nis a 3D photorealistic construction of the area around Mount Street Bridge\nthat transports users back to a leafy suburb in Dublin, Ireland, in April 1916\nto better understand the spatial and temporal dimensions\nof one of the most important battles in the Easter Rising.\nDuring this battle, the first of the week-long event, against all odds,\na small group of Irish Volunteers held off two battalions of\nBritish soldiers for the better part of the day.\nThe goal of the project is to better understand the battle,\nbringing new insights to this century-old event. \n\nThe project contains four Voyager Instances\nthat help to tell both big narratives about the socio-political\ncontext of the 1916 Rising,\nthe events before, during and after the Battle of Mount Street Bridge,\nas well as the human toll of the Battle of Mount Street Bridge\non individuals from both sides of the conflict.\nThe 3D models of the neighborhood and individual buildings\noffer an interactive method of telling these stories.\nArchival images, records and oral accounts enrich the 3D model of the buildings\nso that the stories are authenticated by primary sources. ",
+            "instructionalMethod": "The Battle of Mount Street Bridge 3D Scholarly Model\ncontains four individual Voyager instances for exploring and learning\nabout the events and actors of Mount Street.\nThe project is designed in a way that offers optional additional layers\nof linked open data for further exploration of the base narrative. \n\nThe first voyager instance is offers a broad overview of the wider battle\nin terms of volunteer positioning and prep as well as British movements\nto the area of conflict. This instance is meant to offer\na superficial introduction and big-picture view of the event\nthat offers opportunities to explore more about each specific buildings\nand the individuals associated with them.\nThese more detailed stories are offered to the user within relevant articles\nthat provide a link to the subsequent instances on three key buildings from the battle. \n\nThe other three instances focus on individual buildings\nthat were occupied by the Irish Volunteers.\nThey are:\n\n*   25 Northumberland Road,\n*   Parochial Hall and\n*   Clanwilliam House.\n\nEach instance contains annotation labels, articles and tours\nthat provide contextualizing information and personal stories\nabout the Irish and British combatants\nas they specifically relate to the building and it's role during the battle. \n\n25 Northumberland Road tells of the Irish Volunteers,\nMichael Malone and Seamus Grace, positioned in that building.\nThis building was the first to engage the British. \n\nParochial Hall was the next building\nwith Irish Volunteer occupiers to engage in conflict with the British troops. \n\nClanwilliam was the last building to fall to the British.\nThere were seven volunteers stationed inside. ",
+            "language": [
+                "English"
+            ],
+            "provenance": "Contested Memories – Battle of Mount Street Bridge\nis a Digital Humanities project directed by\nSusan Schreibman and Costas Papadopoulos at Maastricht University.\nThe project is developed as part of a pilot project for the PURE3D Infrastructure,\nfunded by the Platform Digitale Infrastructuur - Social Sciences and Humanities\n(PDI- SSH).\nThe project began in 2016 as part of the centennial commemoration\nof the Easter Rising and was developed out of Maynooth University.\nA 3D reconstruction of the Mount Street area of Dublin in 1916\nwas commissioned by the project and executed\nas an offline Unity application by 3D artist John Buckley. \n\nThe Mount Street Project was re-invigorated in 2021\nas a pilot project for the PURE3D Infrastructure.\nThe 3D assets for the project are presented using the Smithsonian Voyager Explorer\nonline software in which text, images and other relevant multi-media\nabout the battle is presented via annotation labels, articles and tours. \n\nIn Spring 2022, an Honours Course at Maastricht University collaboratively authored\na first draft of the Voyager Instance for 25 Northumberland Road.\nIn June 2022, this instance was user-tested via a focus group\nand a Qualtrics Feedback Survey. ",
+            "rights": {
+                "accessRights": "Open Access - Unrestricted Access",
+                "license": "Creative Commons",
+                "rightsHolder": "Faculty of Arts and Social Sciences, Maastricht University"
+            },
+            "subject": [
+                "Irish History",
+                "Easter Rising",
+                "British History",
+                "World War I",
+                "3D Storytelling",
+                "3D annotation",
+                "3D Digital Scholarly Model"
+            ],
+            "title": "Contested Memories: The Battle of Mount Street Bridge"
+        },
+        "editions": [
+            {
+                "_id": {
+                    "$oid": "64649d1ef24ec1b737dcc48f"
+                },
+                "dc": {
+                    "abstract": "**25 Northumberland Road**,\nlocated at the corner of the junction with Haddington Road\nwas held by Volunteers Michael Malone and James Grace.",
+                    "audience": [
+                        "Digital Humanities",
+                        "Early Modern History",
+                        "Irish History"
+                    ],
+                    "creator": [
+                        "Susan Schreibman",
+                        "Kelly Gillikin Schoueri",
+                        "John Kaulakis",
+                        "Luca Moine",
+                        "Sandra Martinez Böhme"
+                    ],
+                    "description": "A three-storey, Victorian terraced town-house on the corner of the junction\nwith Haddington Road, 25 Northumberland Road is on the south side\nof the Grand Canal and a short distance from Mount Street Bridge.\n\nIt was occupied on Easter Monday by Michael Malone, James Grace, Paddy Rowe\nand Michael Byrne and was the southernmost location occupied by\nC Company, 3rd Battalion Dublin Brigade of the Irish Volunteers\n(Carisbrook House to the south was taken by a different unit).\nThe building was the home of Michael Cussen, described by Grace as ‘friendly’,\nwho had evacuated his family and servants in advance of the Rising\n(DCLA, Dublin City Electoral Rolls, 1914; Thom’s Directory, 1916; MAI, BMH WS 310).\n\nOn Easter Monday afternoon, the garrison in No. 25 fired on a column\nof the Volunteer Training Corps\n(nicknamed the ‘Gorgeous Wrecks’ for their older age profile\nand Georgius Rex armbands) returning to Beggar’s Bush barracks\nafter a training exercise.\nPart-time reservists and made up of professional men, many over military age,\nthe VTC were unarmed or carrying rifles with no ammunition.\nFive members of the column were killed and seven more wounded.\nThe following morning, teenagers Rowe and Byrne were sent home for their own safety,\nleaving Malone and Grace as the sole occupants of No. 25 (MAI, BMH WS 310).\nOn Wednesday morning two members of Cumann na mBan,\nincluding one of Grace’s sisters, delivered a dispatch with news\nof the imminent arrival of British troops marching from Kingstown\n(now Dun Laoghaire).\nPositioned in a third-floor bathroom window,\nMalone was the first Volunteer to open fire on the advancing Sherwood Foresters\nwith Grace following suit from a window on the second-floor.\nTheir positions offered an ideal field of fire in which to engage British troops\nmoving up Northumberland Road towards the city and along Haddington Road.\n\nNo. 25 was the first rebel position to fall after it was repeatedly charged\nby 2/7th Sherwood Foresters armed with hand grenades and its door blown in.\n\nMalone was killed by rifle fire but Grace managed to escape\n(MAI, MSPR 34/REF/368; MAI, BMH WS 310).",
+                    "provenance": "This model was created by 3D artist *John Buckley*.\nIn Spring 2022, an Honours Course at Maastricht University collaboratively authored\na first draft of the Voyager Instance for 25 Northumberland Road.",
+                    "title": "25 Northumberland Road"
+                },
+                "isPublished": true,
+                "projectId": {
+                    "$oid": "64649d1ef24ec1b737dcc48e"
+                },
+                "settings": {
+                    "authorTool": {
+                        "name": "voyager",
+                        "sceneFile": "scene.svx.json",
+                        "version": "0.21.1p"
+                    }
+                },
+                "title": "25 Northumberland Road"
+            },
+            {
+                "_id": {
+                    "$oid": "64649d1ff24ec1b737dcc490"
+                },
+                "dc": {
+                    "abstract": "**Clanwilliam House, 1-2 Clanwilliam Place, was occupied by seven Volunteers from \nC Company, 3rd Battalion of the Dublin Brigade on Wednesday morning. It was the last \nrebel post to be taken. Three of its garrison were killed during the fighting.**",
+                    "audience": [
+                        "Digital Humanities",
+                        "Early Modern History",
+                        "Irish History"
+                    ],
+                    "creator": [
+                        "Susan Schriebman",
+                        "Kelly Gillikin Schoueri",
+                        "John Kaulakis",
+                        "Luca Moine",
+                        "Sandra Martinez Böhme"
+                    ],
+                    "description": "Clanwilliam House, 1-2 Clanwilliam Place, was part of a row of Georgian \nhouses on the city side of Mount Street Bridge on the intersection with \nLower Mount Street and facing the Grand Canal. Samuel Wilson, a retired \nmerchant sailor, his family and servants lived in 1 Clanwilliam Place, \nwhile the family and servants of carpenter and contractor Andrew Mathers \noccupied 2 Clanwilliam Place, next door. (NAI, 1911 census returns; \nDCLA, Dublin City Electoral Rolls, 1915; Thom’s Directory, 1916). \nA large, three-storey building, it offered an unobstructed view of the bridge \nand down Northumberland Road. On Easter Monday, the building was occupied by \nGeorge Reynolds (section commander), Daniel Byrne, William Ronan and James Doyle, \nthe door having been opened for them by a maid (MAI, BMH WS 309). On Tuesday morning, \nPaddy Doyle, Richard Murphy and brothers Thomas and James Walsh were sent from \nBoland’s Bakery, headquarters of the 3rd Battalion under its commandant, \nEamon de Valera, to reinforce the garrison in Clanwilliam House. \nDaniel Byrne was assigned to carry dispatches leaving seven men \nin possession of Clanwilliam House on Wednesday morning. By that time, furniture\nhad been used to fortify windows but the glass had not been smashed and \nno other measures taken to prepare for an assault on the building. Each Volunteer \nwas positioned at one of ten second and third storey windows at the front of the \nhouse facing the canal. On hearing fire from 25 Northumberland Road, the garrison \nopened fire on the advancing Sherwood Foresters. Clanwilliam House was the last of the \nrebel posts to fall following a concerted rush by troops from the 2/8th and 2/7th Sherwood \nForesters during which the house caught fire. George Reynolds, Paddy Doyle and Richard Murphy \nwere killed during the fighting (MAI, BMH WS 127; MAI, BMH WS 309; MAI, BMH WS 198). \nThe building remained unoccupied after the Rising until it collapsed during a storm in 1920 \n(Thom’s Directory, 1917; Irish Independent, 18 Jan. 1920).",
+                    "provenance": "This model was created by 3D artist *John Buckley*.",
+                    "title": "Clanwilliam House"
+                },
+                "isPublished": true,
+                "projectId": {
+                    "$oid": "64649d1ef24ec1b737dcc48e"
+                },
+                "settings": {
+                    "authorTool": {
+                        "name": "voyager",
+                        "sceneFile": "scene.svx.json",
+                        "version": "0.21.1p"
+                    }
+                },
+                "title": "Clanwilliam House"
+            }
+        ],
+        "subjects": "",
+        "creator": "",
+        "filename": "edition_clanwilliam-house.html",
+        "editionId": "64649d1ff24ec1b737dcc490",
+        "projectId": "64649d1ef24ec1b737dcc48e"
+    },
+    {
+        "template": "p3d-project.html",
+        "title": "Tokyo University Workshop 2022",
+        "file_name": "project_tokyo-university-workshop-2022.html",
+        "contentdata": {
+            "abstract": "The Tokyo University Workshop was held ...",
+            "creator": [
+                "Shintaro Seki",
+                "Yuri Ishida"
+            ],
+            "description": "Two models were presented on the workshop:\n\n* A yurt\n* A Hurdy-Gurdy",
+            "instructionalMethod": "The two models are independent.",
+            "provenance": "Asian scholars.",
+            "title": "Tokyo University Workshop 2022"
+        },
+        "editions": [
+            {
+                "_id": {
+                    "$oid": "64649d1ff24ec1b737dcc492"
+                },
+                "dc": {
+                    "abstract": "This yurt is ...",
+                    "creator": "Yuri Ishida",
+                    "description": "Yurts are found ...",
+                    "instructionalMethod": "Instructions on how to view this model of a yurt are forthcoming.",
+                    "provenance": "Made by Yuri.",
+                    "title": "Yurt"
+                },
+                "isPublished": true,
+                "projectId": {
+                    "$oid": "64649d1ff24ec1b737dcc491"
+                },
+                "settings": {
+                    "authorTool": {
+                        "name": "voyager",
+                        "sceneFile": "scene.svx.json",
+                        "version": "0.21.1p"
+                    }
+                },
+                "title": "Yurt"
+            },
+            {
+                "_id": {
+                    "$oid": "64649d1ff24ec1b737dcc493"
+                },
+                "dc": {
+                    "abstract": "This hurdy-gurdy is ...",
+                    "creator": "Shintaro Seki",
+                    "description": "Hurdy-gurdies are found ...",
+                    "instructionalMethod": "Instructions on how to view this model of a hurdy-gurdy are forthcoming.",
+                    "provenance": "Made by Shintaro.",
+                    "title": "Hurdy-Gurdy"
+                },
+                "isPublished": true,
+                "projectId": {
+                    "$oid": "64649d1ff24ec1b737dcc491"
+                },
+                "settings": {
+                    "authorTool": {
+                        "name": "voyager",
+                        "sceneFile": "scene.svx.json",
+                        "version": "0.21.1p"
+                    }
+                },
+                "title": "Hurdy-Gurdy"
+            }
+        ],
+        "subjects": "",
+        "creator": "",
+        "filename": "edition_hurdy-gurdy.html",
+        "editionId": "64649d1ff24ec1b737dcc493",
+        "projectId": "64649d1ff24ec1b737dcc491"
+    },
+    {
+        "template": "p3d-project.html",
+        "title": "Diaconie Weeshuis",
+        "file_name": "project_diaconie-weeshuis.html",
+        "contentdata": {
+            "abstract": "In the latter half of the 17th century, the Diaconie Weeshuis, an orphanage\nmanaged by a protestant church, proudly overlooked the Amstel river. It was\nlocated on former ‘Vlooienburg’, an island constructed in the Amstel for\nurban expansion around 1600. The orphanage was constructed in 1656, and stood\nfor 230 years before it got replaced by a new building in Neogothic style in\n1888. In the 1980s the entire neighbourhood was demolished to make space for\nthe new Amsterdam city hall and opera (nick named ‘stopera’).",
+            "audience": [
+                "Digital Humanities",
+                "Early Modern History"
+            ],
+            "contributor": [
+                "N.N."
+            ],
+            "coverage": {
+                "period": "1650-1700 CE",
+                "place": "Amsterdam, Netherlands"
+            },
+            "creator": "Tijm Lanjouw",
+            "dateAccepted": "2020-07-31",
+            "dateSubmitted": "2020-04-27",
+            "description": "The Diaconie Weeshuis does not exist anymore. It was demolished and replaced\nby a new building in 1888. The model was therefore based on historical maps,\ndepictions and 19th century photography. \n\nThe sources give some indications of the construction materials used for the\nwalls, windows, and roofs. No colour photography was invented before the\ndemolition of this building, so the best indication is gained from this 1785\ndrawing van H.P. Schouten. The building most likely had reddish bricks,\nsandstone blocks in the recessed arches on ground floor, and all woodwork\npainted off-white or yellow (although this may have changed over its\nlifetime). The gates and pediments on the roof were most likely of a kind of\nstone, either with natural surface or painted to match the woodwork. The\nshutters appear to have been painted in a greyish tone. From the other\ndepictions we know that the roof was covered with small diamond shaped slate\ntiles.",
+            "instructionalMethod": "Use the interactive tours button on the upper left corner for a structured\nnarrative on the sources and the reconstruction. The articles in this list\nare attached to these tours.",
+            "language": [
+                "English"
+            ],
+            "provenance": "Disclaimer: not all visual historical sources with a depiction of this building are included.\n\nThe images are all originating from the Amsterdam City Archives Image Database.\n\nSome suggested searches:\n\n* [Diaconieweeshuis](https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&q=diaconieweeshuis&rows=1&page=1&sort=order_i_sk_date%20asc&reverse=0)\n* [Diaconie weeshuis](https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&q=diaconie%20weeshuis&rows=1&page=1&sort=order_i_sk_date%20asc&reverse=0)\n* [Diakonie weeshuis](https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&q=diakonie%20weeshuis&rows=1&page=1&sort=order_i_sk_date%20asc&reverse=0)\n\nList\n\n* [1733 after original 1656, document in honour of the opening of the new orphanage](https://archief.amsterdam/beeldbank/detail/e8356751-0f6c-de35-0927-ce2a25207af8)\n* [ca. 1650 - 1700, by anonymous](https://archief.amsterdam/beeldbank/detail/9e304d4d-7921-1784-fe85-9f45d30e696f)\n* [ca. 1670, by Romeyn de Hooghe](https://archief.amsterdam/beeldbank/detail/239b7dab-a363-587d-8db6-7586cc8489e4)\n* [ca. 1690, by Johannes van Call](https://archief.amsterdam/beeldbank/detail/8a506cb8-eaf2-52d9-7031-e758f476fee8)\n* [1785, by H.P. Schouten](https://archief.amsterdam/beeldbank/detail/ecf7064e-c4f8-db66-d139-b5533dcc16f4)\n* [1818, by Gerrit Lamberts](https://archief.amsterdam/beeldbank/detail/37d5ca9f-5b8f-8f5d-52f2-b567d1619491)\n* 1832, Cadastral mapping\n* [1844, by Johannes Jacobus Antonius Hilverdink](https://archief.amsterdam/beeldbank/detail/c7f91d39-26e5-7e53-ab7f-4b612c99b7b9)\n* [ca. 1857, by Peter Oosterhuis](https://archief.amsterdam/beeldbank/detail/fd89ae8e-a103-808e-a5b0-6b376d7221b9)\n* [ca. 1885, by G.J.B. Haentjens](https://archief.amsterdam/beeldbank/detail/fa2d0284-4562-5d52-6914-cad6832f5e4e)\n* [1867-1888, by Pieter Oosterhuis](https://archief.amsterdam/beeldbank/detail/53da5911-e30e-648d-736a-f6130e051e6f)",
+            "rights": {
+                "accessRights": "Open Access - Unrestricted Access",
+                "license": "Creative Commons",
+                "rightsHolder": "[4DRL](http://www.4dresearchlab.nl/)"
+            },
+            "subject": [
+                "Amsterdam",
+                "Dutch History",
+                "Social History",
+                "Orphanage"
+            ],
+            "title": "Diaconie Weeshuis"
+        },
+        "editions": [
+            {
+                "_id": {
+                    "$oid": "64649d20f24ec1b737dcc495"
+                },
+                "dc": {
+                    "abstract": "In the latter half of the 17th century, the Diaconie Weeshuis, an orphanage\nmanaged by a protestant church, proudly overlooked the Amstel river. It was\nlocated on former ‘Vlooienburg’, an island constructed in the Amstel for\nurban expansion around 1600. The orphanage was constructed in 1656, and stood\nfor 230 years before it got replaced by a new building in Neogothic style in\n1888. In the 1980s the entire neighbourhood was demolished to make space for\nthe new Amsterdam city hall and opera (nick named ‘stopera’).",
+                    "audience": [
+                        "Digital Humanities",
+                        "Early Modern History"
+                    ],
+                    "creator": "Tijm Lanjouw",
+                    "description": "The Diaconie Weeshuis does not exist anymore. It was demolished and replaced\nby a new building in 1888. The model was therefore based on historical maps,\ndepictions and 19th century photography. \n\nThe sources give some indications of the construction materials used for the\nwalls, windows, and roofs. No colour photography was invented before the\ndemolition of this building, so the best indication is gained from this 1785\ndrawing van H.P. Schouten. The building most likely had reddish bricks,\nsandstone blocks in the recessed arches on ground floor, and all woodwork\npainted off-white or yellow (although this may have changed over its\nlifetime). The gates and pediments on the roof were most likely of a kind of\nstone, either with natural surface or painted to match the woodwork. The\nshutters appear to have been painted in a greyish tone. From the other\ndepictions we know that the roof was covered with small diamond shaped slate\ntiles.",
+                    "provenance": "Disclaimer: not all visual historical sources with a depiction of this building are included.\n\nThe images are all originating from the Amsterdam City Archives Image Database.",
+                    "title": "Diaconie Weeshuis"
+                },
+                "isPublished": true,
+                "projectId": {
+                    "$oid": "64649d20f24ec1b737dcc494"
+                },
+                "settings": {
+                    "authorTool": {
+                        "name": "voyager",
+                        "sceneFile": "scene.svx.json",
+                        "version": "0.21.1p"
+                    }
+                },
+                "title": "Diaconie Weeshuis"
+            }
+        ],
+        "subjects": "",
+        "creator": "",
+        "filename": "edition_diaconie-weeshuis.html",
+        "editionId": "64649d20f24ec1b737dcc495",
+        "projectId": "64649d20f24ec1b737dcc494"
+    },
+    {
+        "template": "p3d-edition.html",
+        "title": "25 Northumberland Road",
+        "file_name": "edition_25-northumberland-road.html",
+        "contentdata": {
+            "abstract": "**25 Northumberland Road**,\nlocated at the corner of the junction with Haddington Road\nwas held by Volunteers Michael Malone and James Grace.",
+            "audience": [
+                "Digital Humanities",
+                "Early Modern History",
+                "Irish History"
+            ],
+            "creator": [
+                "Susan Schreibman",
+                "Kelly Gillikin Schoueri",
+                "John Kaulakis",
+                "Luca Moine",
+                "Sandra Martinez Böhme"
+            ],
+            "description": "A three-storey, Victorian terraced town-house on the corner of the junction\nwith Haddington Road, 25 Northumberland Road is on the south side\nof the Grand Canal and a short distance from Mount Street Bridge.\n\nIt was occupied on Easter Monday by Michael Malone, James Grace, Paddy Rowe\nand Michael Byrne and was the southernmost location occupied by\nC Company, 3rd Battalion Dublin Brigade of the Irish Volunteers\n(Carisbrook House to the south was taken by a different unit).\nThe building was the home of Michael Cussen, described by Grace as ‘friendly’,\nwho had evacuated his family and servants in advance of the Rising\n(DCLA, Dublin City Electoral Rolls, 1914; Thom’s Directory, 1916; MAI, BMH WS 310).\n\nOn Easter Monday afternoon, the garrison in No. 25 fired on a column\nof the Volunteer Training Corps\n(nicknamed the ‘Gorgeous Wrecks’ for their older age profile\nand Georgius Rex armbands) returning to Beggar’s Bush barracks\nafter a training exercise.\nPart-time reservists and made up of professional men, many over military age,\nthe VTC were unarmed or carrying rifles with no ammunition.\nFive members of the column were killed and seven more wounded.\nThe following morning, teenagers Rowe and Byrne were sent home for their own safety,\nleaving Malone and Grace as the sole occupants of No. 25 (MAI, BMH WS 310).\nOn Wednesday morning two members of Cumann na mBan,\nincluding one of Grace’s sisters, delivered a dispatch with news\nof the imminent arrival of British troops marching from Kingstown\n(now Dun Laoghaire).\nPositioned in a third-floor bathroom window,\nMalone was the first Volunteer to open fire on the advancing Sherwood Foresters\nwith Grace following suit from a window on the second-floor.\nTheir positions offered an ideal field of fire in which to engage British troops\nmoving up Northumberland Road towards the city and along Haddington Road.\n\nNo. 25 was the first rebel position to fall after it was repeatedly charged\nby 2/7th Sherwood Foresters armed with hand grenades and its door blown in.\n\nMalone was killed by rifle fire but Grace managed to escape\n(MAI, MSPR 34/REF/368; MAI, BMH WS 310).",
+            "provenance": "This model was created by 3D artist *John Buckley*.\nIn Spring 2022, an Honours Course at Maastricht University collaboratively authored\na first draft of the Voyager Instance for 25 Northumberland Road.",
+            "title": "25 Northumberland Road"
+        },
+        "project": {
+            "_id": {
+                "$oid": "64649d1ef24ec1b737dcc48e"
+            },
+            "dc": {
+                "abstract": "The Battle of Mount Street Bridge 3D Scholarly Model\ndetails the events and actors of a key battle\nwhich occurred during the 1916 Easter Rising in Dublin, Ireland.",
+                "audience": [
+                    "Digital Humanities",
+                    "Early Modern History",
+                    "Irish History"
+                ],
+                "contributor": [
+                    "Kelly Gillikin Schoueri",
+                    "Costas Papadopoulos",
+                    "Billy Donnelly",
+                    "Luca Moines",
+                    "John Kaulakis",
+                    "Sandra Boheme Martinez"
+                ],
+                "coverage": {
+                    "period": "1900-1950 CE",
+                    "place": "British Isles"
+                },
+                "creator": "Susan Schreibman",
+                "dateAccepted": "2022-10-12",
+                "dateSubmitted": "2022-04-18",
+                "description": "The Battle of Mount Street Bridge 3D Scholarly Model\nis a 3D photorealistic construction of the area around Mount Street Bridge\nthat transports users back to a leafy suburb in Dublin, Ireland, in April 1916\nto better understand the spatial and temporal dimensions\nof one of the most important battles in the Easter Rising.\nDuring this battle, the first of the week-long event, against all odds,\na small group of Irish Volunteers held off two battalions of\nBritish soldiers for the better part of the day.\nThe goal of the project is to better understand the battle,\nbringing new insights to this century-old event. \n\nThe project contains four Voyager Instances\nthat help to tell both big narratives about the socio-political\ncontext of the 1916 Rising,\nthe events before, during and after the Battle of Mount Street Bridge,\nas well as the human toll of the Battle of Mount Street Bridge\non individuals from both sides of the conflict.\nThe 3D models of the neighborhood and individual buildings\noffer an interactive method of telling these stories.\nArchival images, records and oral accounts enrich the 3D model of the buildings\nso that the stories are authenticated by primary sources. ",
+                "instructionalMethod": "The Battle of Mount Street Bridge 3D Scholarly Model\ncontains four individual Voyager instances for exploring and learning\nabout the events and actors of Mount Street.\nThe project is designed in a way that offers optional additional layers\nof linked open data for further exploration of the base narrative. \n\nThe first voyager instance is offers a broad overview of the wider battle\nin terms of volunteer positioning and prep as well as British movements\nto the area of conflict. This instance is meant to offer\na superficial introduction and big-picture view of the event\nthat offers opportunities to explore more about each specific buildings\nand the individuals associated with them.\nThese more detailed stories are offered to the user within relevant articles\nthat provide a link to the subsequent instances on three key buildings from the battle. \n\nThe other three instances focus on individual buildings\nthat were occupied by the Irish Volunteers.\nThey are:\n\n*   25 Northumberland Road,\n*   Parochial Hall and\n*   Clanwilliam House.\n\nEach instance contains annotation labels, articles and tours\nthat provide contextualizing information and personal stories\nabout the Irish and British combatants\nas they specifically relate to the building and it's role during the battle. \n\n25 Northumberland Road tells of the Irish Volunteers,\nMichael Malone and Seamus Grace, positioned in that building.\nThis building was the first to engage the British. \n\nParochial Hall was the next building\nwith Irish Volunteer occupiers to engage in conflict with the British troops. \n\nClanwilliam was the last building to fall to the British.\nThere were seven volunteers stationed inside. ",
+                "language": [
+                    "English"
+                ],
+                "provenance": "Contested Memories – Battle of Mount Street Bridge\nis a Digital Humanities project directed by\nSusan Schreibman and Costas Papadopoulos at Maastricht University.\nThe project is developed as part of a pilot project for the PURE3D Infrastructure,\nfunded by the Platform Digitale Infrastructuur - Social Sciences and Humanities\n(PDI- SSH).\nThe project began in 2016 as part of the centennial commemoration\nof the Easter Rising and was developed out of Maynooth University.\nA 3D reconstruction of the Mount Street area of Dublin in 1916\nwas commissioned by the project and executed\nas an offline Unity application by 3D artist John Buckley. \n\nThe Mount Street Project was re-invigorated in 2021\nas a pilot project for the PURE3D Infrastructure.\nThe 3D assets for the project are presented using the Smithsonian Voyager Explorer\nonline software in which text, images and other relevant multi-media\nabout the battle is presented via annotation labels, articles and tours. \n\nIn Spring 2022, an Honours Course at Maastricht University collaboratively authored\na first draft of the Voyager Instance for 25 Northumberland Road.\nIn June 2022, this instance was user-tested via a focus group\nand a Qualtrics Feedback Survey. ",
+                "rights": {
+                    "accessRights": "Open Access - Unrestricted Access",
+                    "license": "Creative Commons",
+                    "rightsHolder": "Faculty of Arts and Social Sciences, Maastricht University"
+                },
+                "subject": [
+                    "Irish History",
+                    "Easter Rising",
+                    "British History",
+                    "World War I",
+                    "3D Storytelling",
+                    "3D annotation",
+                    "3D Digital Scholarly Model"
+                ],
+                "title": "Contested Memories: The Battle of Mount Street Bridge"
+            },
+            "isVisible": true,
+            "siteId": {
+                "$oid": "64649d1ef24ec1b737dcc48d"
+            },
+            "title": "Contested Memories: The Battle of Mount Street Bridge",
+            "projectName": "Contested Memories: The Battle of Mount Street Bridge",
+            "projectLink": "project_contested-memories-the-battle-of-mount-street-bridge.html"
+        },
+        "projectId": "64649d1ef24ec1b737dcc48e",
+        "editionId": "64649d1ef24ec1b737dcc48f",
+        "isPublished": true,
+        "settings": {
+            "authorTool": {
+                "name": "voyager",
+                "sceneFile": "scene.svx.json",
+                "version": "0.21.1p"
+            }
+        }
+    },
+    {
+        "template": "p3d-edition.html",
+        "title": "Clanwilliam House",
+        "file_name": "edition_clanwilliam-house.html",
+        "contentdata": {
+            "abstract": "**Clanwilliam House, 1-2 Clanwilliam Place, was occupied by seven Volunteers from \nC Company, 3rd Battalion of the Dublin Brigade on Wednesday morning. It was the last \nrebel post to be taken. Three of its garrison were killed during the fighting.**",
+            "audience": [
+                "Digital Humanities",
+                "Early Modern History",
+                "Irish History"
+            ],
+            "creator": [
+                "Susan Schriebman",
+                "Kelly Gillikin Schoueri",
+                "John Kaulakis",
+                "Luca Moine",
+                "Sandra Martinez Böhme"
+            ],
+            "description": "Clanwilliam House, 1-2 Clanwilliam Place, was part of a row of Georgian \nhouses on the city side of Mount Street Bridge on the intersection with \nLower Mount Street and facing the Grand Canal. Samuel Wilson, a retired \nmerchant sailor, his family and servants lived in 1 Clanwilliam Place, \nwhile the family and servants of carpenter and contractor Andrew Mathers \noccupied 2 Clanwilliam Place, next door. (NAI, 1911 census returns; \nDCLA, Dublin City Electoral Rolls, 1915; Thom’s Directory, 1916). \nA large, three-storey building, it offered an unobstructed view of the bridge \nand down Northumberland Road. On Easter Monday, the building was occupied by \nGeorge Reynolds (section commander), Daniel Byrne, William Ronan and James Doyle, \nthe door having been opened for them by a maid (MAI, BMH WS 309). On Tuesday morning, \nPaddy Doyle, Richard Murphy and brothers Thomas and James Walsh were sent from \nBoland’s Bakery, headquarters of the 3rd Battalion under its commandant, \nEamon de Valera, to reinforce the garrison in Clanwilliam House. \nDaniel Byrne was assigned to carry dispatches leaving seven men \nin possession of Clanwilliam House on Wednesday morning. By that time, furniture\nhad been used to fortify windows but the glass had not been smashed and \nno other measures taken to prepare for an assault on the building. Each Volunteer \nwas positioned at one of ten second and third storey windows at the front of the \nhouse facing the canal. On hearing fire from 25 Northumberland Road, the garrison \nopened fire on the advancing Sherwood Foresters. Clanwilliam House was the last of the \nrebel posts to fall following a concerted rush by troops from the 2/8th and 2/7th Sherwood \nForesters during which the house caught fire. George Reynolds, Paddy Doyle and Richard Murphy \nwere killed during the fighting (MAI, BMH WS 127; MAI, BMH WS 309; MAI, BMH WS 198). \nThe building remained unoccupied after the Rising until it collapsed during a storm in 1920 \n(Thom’s Directory, 1917; Irish Independent, 18 Jan. 1920).",
+            "provenance": "This model was created by 3D artist *John Buckley*.",
+            "title": "Clanwilliam House"
+        },
+        "project": {
+            "_id": {
+                "$oid": "64649d1ef24ec1b737dcc48e"
+            },
+            "dc": {
+                "abstract": "The Battle of Mount Street Bridge 3D Scholarly Model\ndetails the events and actors of a key battle\nwhich occurred during the 1916 Easter Rising in Dublin, Ireland.",
+                "audience": [
+                    "Digital Humanities",
+                    "Early Modern History",
+                    "Irish History"
+                ],
+                "contributor": [
+                    "Kelly Gillikin Schoueri",
+                    "Costas Papadopoulos",
+                    "Billy Donnelly",
+                    "Luca Moines",
+                    "John Kaulakis",
+                    "Sandra Boheme Martinez"
+                ],
+                "coverage": {
+                    "period": "1900-1950 CE",
+                    "place": "British Isles"
+                },
+                "creator": "Susan Schreibman",
+                "dateAccepted": "2022-10-12",
+                "dateSubmitted": "2022-04-18",
+                "description": "The Battle of Mount Street Bridge 3D Scholarly Model\nis a 3D photorealistic construction of the area around Mount Street Bridge\nthat transports users back to a leafy suburb in Dublin, Ireland, in April 1916\nto better understand the spatial and temporal dimensions\nof one of the most important battles in the Easter Rising.\nDuring this battle, the first of the week-long event, against all odds,\na small group of Irish Volunteers held off two battalions of\nBritish soldiers for the better part of the day.\nThe goal of the project is to better understand the battle,\nbringing new insights to this century-old event. \n\nThe project contains four Voyager Instances\nthat help to tell both big narratives about the socio-political\ncontext of the 1916 Rising,\nthe events before, during and after the Battle of Mount Street Bridge,\nas well as the human toll of the Battle of Mount Street Bridge\non individuals from both sides of the conflict.\nThe 3D models of the neighborhood and individual buildings\noffer an interactive method of telling these stories.\nArchival images, records and oral accounts enrich the 3D model of the buildings\nso that the stories are authenticated by primary sources. ",
+                "instructionalMethod": "The Battle of Mount Street Bridge 3D Scholarly Model\ncontains four individual Voyager instances for exploring and learning\nabout the events and actors of Mount Street.\nThe project is designed in a way that offers optional additional layers\nof linked open data for further exploration of the base narrative. \n\nThe first voyager instance is offers a broad overview of the wider battle\nin terms of volunteer positioning and prep as well as British movements\nto the area of conflict. This instance is meant to offer\na superficial introduction and big-picture view of the event\nthat offers opportunities to explore more about each specific buildings\nand the individuals associated with them.\nThese more detailed stories are offered to the user within relevant articles\nthat provide a link to the subsequent instances on three key buildings from the battle. \n\nThe other three instances focus on individual buildings\nthat were occupied by the Irish Volunteers.\nThey are:\n\n*   25 Northumberland Road,\n*   Parochial Hall and\n*   Clanwilliam House.\n\nEach instance contains annotation labels, articles and tours\nthat provide contextualizing information and personal stories\nabout the Irish and British combatants\nas they specifically relate to the building and it's role during the battle. \n\n25 Northumberland Road tells of the Irish Volunteers,\nMichael Malone and Seamus Grace, positioned in that building.\nThis building was the first to engage the British. \n\nParochial Hall was the next building\nwith Irish Volunteer occupiers to engage in conflict with the British troops. \n\nClanwilliam was the last building to fall to the British.\nThere were seven volunteers stationed inside. ",
+                "language": [
+                    "English"
+                ],
+                "provenance": "Contested Memories – Battle of Mount Street Bridge\nis a Digital Humanities project directed by\nSusan Schreibman and Costas Papadopoulos at Maastricht University.\nThe project is developed as part of a pilot project for the PURE3D Infrastructure,\nfunded by the Platform Digitale Infrastructuur - Social Sciences and Humanities\n(PDI- SSH).\nThe project began in 2016 as part of the centennial commemoration\nof the Easter Rising and was developed out of Maynooth University.\nA 3D reconstruction of the Mount Street area of Dublin in 1916\nwas commissioned by the project and executed\nas an offline Unity application by 3D artist John Buckley. \n\nThe Mount Street Project was re-invigorated in 2021\nas a pilot project for the PURE3D Infrastructure.\nThe 3D assets for the project are presented using the Smithsonian Voyager Explorer\nonline software in which text, images and other relevant multi-media\nabout the battle is presented via annotation labels, articles and tours. \n\nIn Spring 2022, an Honours Course at Maastricht University collaboratively authored\na first draft of the Voyager Instance for 25 Northumberland Road.\nIn June 2022, this instance was user-tested via a focus group\nand a Qualtrics Feedback Survey. ",
+                "rights": {
+                    "accessRights": "Open Access - Unrestricted Access",
+                    "license": "Creative Commons",
+                    "rightsHolder": "Faculty of Arts and Social Sciences, Maastricht University"
+                },
+                "subject": [
+                    "Irish History",
+                    "Easter Rising",
+                    "British History",
+                    "World War I",
+                    "3D Storytelling",
+                    "3D annotation",
+                    "3D Digital Scholarly Model"
+                ],
+                "title": "Contested Memories: The Battle of Mount Street Bridge"
+            },
+            "isVisible": true,
+            "siteId": {
+                "$oid": "64649d1ef24ec1b737dcc48d"
+            },
+            "title": "Contested Memories: The Battle of Mount Street Bridge",
+            "projectName": "Contested Memories: The Battle of Mount Street Bridge",
+            "projectLink": "project_contested-memories-the-battle-of-mount-street-bridge.html"
+        },
+        "projectId": "64649d1ef24ec1b737dcc48e",
+        "editionId": "64649d1ff24ec1b737dcc490",
+        "isPublished": true,
+        "settings": {
+            "authorTool": {
+                "name": "voyager",
+                "sceneFile": "scene.svx.json",
+                "version": "0.21.1p"
+            }
+        }
+    },
+    {
+        "template": "p3d-edition.html",
+        "title": "Yurt",
+        "file_name": "edition_yurt.html",
+        "contentdata": {
+            "abstract": "This yurt is ...",
+            "creator": "Yuri Ishida",
+            "description": "Yurts are found ...",
+            "instructionalMethod": "Instructions on how to view this model of a yurt are forthcoming.",
+            "provenance": "Made by Yuri.",
+            "title": "Yurt"
+        },
+        "project": {
+            "_id": {
+                "$oid": "64649d1ff24ec1b737dcc491"
+            },
+            "dc": {
+                "abstract": "The Tokyo University Workshop was held ...",
+                "creator": [
+                    "Shintaro Seki",
+                    "Yuri Ishida"
+                ],
+                "description": "Two models were presented on the workshop:\n\n* A yurt\n* A Hurdy-Gurdy",
+                "instructionalMethod": "The two models are independent.",
+                "provenance": "Asian scholars.",
+                "title": "Tokyo University Workshop 2022"
+            },
+            "isVisible": true,
+            "siteId": {
+                "$oid": "64649d1ef24ec1b737dcc48d"
+            },
+            "title": "Tokyo University Workshop 2022",
+            "projectName": "Tokyo University Workshop 2022",
+            "projectLink": "project_tokyo-university-workshop-2022.html"
+        },
+        "projectId": "64649d1ff24ec1b737dcc491",
+        "editionId": "64649d1ff24ec1b737dcc492",
+        "isPublished": true,
+        "settings": {
+            "authorTool": {
+                "name": "voyager",
+                "sceneFile": "scene.svx.json",
+                "version": "0.21.1p"
+            }
+        }
+    },
+    {
+        "template": "p3d-edition.html",
+        "title": "Hurdy-Gurdy",
+        "file_name": "edition_hurdy-gurdy.html",
+        "contentdata": {
+            "abstract": "This hurdy-gurdy is ...",
+            "creator": "Shintaro Seki",
+            "description": "Hurdy-gurdies are found ...",
+            "instructionalMethod": "Instructions on how to view this model of a hurdy-gurdy are forthcoming.",
+            "provenance": "Made by Shintaro.",
+            "title": "Hurdy-Gurdy"
+        },
+        "project": {
+            "_id": {
+                "$oid": "64649d1ff24ec1b737dcc491"
+            },
+            "dc": {
+                "abstract": "The Tokyo University Workshop was held ...",
+                "creator": [
+                    "Shintaro Seki",
+                    "Yuri Ishida"
+                ],
+                "description": "Two models were presented on the workshop:\n\n* A yurt\n* A Hurdy-Gurdy",
+                "instructionalMethod": "The two models are independent.",
+                "provenance": "Asian scholars.",
+                "title": "Tokyo University Workshop 2022"
+            },
+            "isVisible": true,
+            "siteId": {
+                "$oid": "64649d1ef24ec1b737dcc48d"
+            },
+            "title": "Tokyo University Workshop 2022",
+            "projectName": "Tokyo University Workshop 2022",
+            "projectLink": "project_tokyo-university-workshop-2022.html"
+        },
+        "projectId": "64649d1ff24ec1b737dcc491",
+        "editionId": "64649d1ff24ec1b737dcc493",
+        "isPublished": true,
+        "settings": {
+            "authorTool": {
+                "name": "voyager",
+                "sceneFile": "scene.svx.json",
+                "version": "0.21.1p"
+            }
+        }
+    },
+    {
+        "template": "p3d-edition.html",
+        "title": "Diaconie Weeshuis",
+        "file_name": "edition_diaconie-weeshuis.html",
+        "contentdata": {
+            "abstract": "In the latter half of the 17th century, the Diaconie Weeshuis, an orphanage\nmanaged by a protestant church, proudly overlooked the Amstel river. It was\nlocated on former ‘Vlooienburg’, an island constructed in the Amstel for\nurban expansion around 1600. The orphanage was constructed in 1656, and stood\nfor 230 years before it got replaced by a new building in Neogothic style in\n1888. In the 1980s the entire neighbourhood was demolished to make space for\nthe new Amsterdam city hall and opera (nick named ‘stopera’).",
+            "audience": [
+                "Digital Humanities",
+                "Early Modern History"
+            ],
+            "creator": "Tijm Lanjouw",
+            "description": "The Diaconie Weeshuis does not exist anymore. It was demolished and replaced\nby a new building in 1888. The model was therefore based on historical maps,\ndepictions and 19th century photography. \n\nThe sources give some indications of the construction materials used for the\nwalls, windows, and roofs. No colour photography was invented before the\ndemolition of this building, so the best indication is gained from this 1785\ndrawing van H.P. Schouten. The building most likely had reddish bricks,\nsandstone blocks in the recessed arches on ground floor, and all woodwork\npainted off-white or yellow (although this may have changed over its\nlifetime). The gates and pediments on the roof were most likely of a kind of\nstone, either with natural surface or painted to match the woodwork. The\nshutters appear to have been painted in a greyish tone. From the other\ndepictions we know that the roof was covered with small diamond shaped slate\ntiles.",
+            "provenance": "Disclaimer: not all visual historical sources with a depiction of this building are included.\n\nThe images are all originating from the Amsterdam City Archives Image Database.",
+            "title": "Diaconie Weeshuis"
+        },
+        "project": {
+            "_id": {
+                "$oid": "64649d20f24ec1b737dcc494"
+            },
+            "dc": {
+                "abstract": "In the latter half of the 17th century, the Diaconie Weeshuis, an orphanage\nmanaged by a protestant church, proudly overlooked the Amstel river. It was\nlocated on former ‘Vlooienburg’, an island constructed in the Amstel for\nurban expansion around 1600. The orphanage was constructed in 1656, and stood\nfor 230 years before it got replaced by a new building in Neogothic style in\n1888. In the 1980s the entire neighbourhood was demolished to make space for\nthe new Amsterdam city hall and opera (nick named ‘stopera’).",
+                "audience": [
+                    "Digital Humanities",
+                    "Early Modern History"
+                ],
+                "contributor": [
+                    "N.N."
+                ],
+                "coverage": {
+                    "period": "1650-1700 CE",
+                    "place": "Amsterdam, Netherlands"
+                },
+                "creator": "Tijm Lanjouw",
+                "dateAccepted": "2020-07-31",
+                "dateSubmitted": "2020-04-27",
+                "description": "The Diaconie Weeshuis does not exist anymore. It was demolished and replaced\nby a new building in 1888. The model was therefore based on historical maps,\ndepictions and 19th century photography. \n\nThe sources give some indications of the construction materials used for the\nwalls, windows, and roofs. No colour photography was invented before the\ndemolition of this building, so the best indication is gained from this 1785\ndrawing van H.P. Schouten. The building most likely had reddish bricks,\nsandstone blocks in the recessed arches on ground floor, and all woodwork\npainted off-white or yellow (although this may have changed over its\nlifetime). The gates and pediments on the roof were most likely of a kind of\nstone, either with natural surface or painted to match the woodwork. The\nshutters appear to have been painted in a greyish tone. From the other\ndepictions we know that the roof was covered with small diamond shaped slate\ntiles.",
+                "instructionalMethod": "Use the interactive tours button on the upper left corner for a structured\nnarrative on the sources and the reconstruction. The articles in this list\nare attached to these tours.",
+                "language": [
+                    "English"
+                ],
+                "provenance": "Disclaimer: not all visual historical sources with a depiction of this building are included.\n\nThe images are all originating from the Amsterdam City Archives Image Database.\n\nSome suggested searches:\n\n* [Diaconieweeshuis](https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&q=diaconieweeshuis&rows=1&page=1&sort=order_i_sk_date%20asc&reverse=0)\n* [Diaconie weeshuis](https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&q=diaconie%20weeshuis&rows=1&page=1&sort=order_i_sk_date%20asc&reverse=0)\n* [Diakonie weeshuis](https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&q=diakonie%20weeshuis&rows=1&page=1&sort=order_i_sk_date%20asc&reverse=0)\n\nList\n\n* [1733 after original 1656, document in honour of the opening of the new orphanage](https://archief.amsterdam/beeldbank/detail/e8356751-0f6c-de35-0927-ce2a25207af8)\n* [ca. 1650 - 1700, by anonymous](https://archief.amsterdam/beeldbank/detail/9e304d4d-7921-1784-fe85-9f45d30e696f)\n* [ca. 1670, by Romeyn de Hooghe](https://archief.amsterdam/beeldbank/detail/239b7dab-a363-587d-8db6-7586cc8489e4)\n* [ca. 1690, by Johannes van Call](https://archief.amsterdam/beeldbank/detail/8a506cb8-eaf2-52d9-7031-e758f476fee8)\n* [1785, by H.P. Schouten](https://archief.amsterdam/beeldbank/detail/ecf7064e-c4f8-db66-d139-b5533dcc16f4)\n* [1818, by Gerrit Lamberts](https://archief.amsterdam/beeldbank/detail/37d5ca9f-5b8f-8f5d-52f2-b567d1619491)\n* 1832, Cadastral mapping\n* [1844, by Johannes Jacobus Antonius Hilverdink](https://archief.amsterdam/beeldbank/detail/c7f91d39-26e5-7e53-ab7f-4b612c99b7b9)\n* [ca. 1857, by Peter Oosterhuis](https://archief.amsterdam/beeldbank/detail/fd89ae8e-a103-808e-a5b0-6b376d7221b9)\n* [ca. 1885, by G.J.B. Haentjens](https://archief.amsterdam/beeldbank/detail/fa2d0284-4562-5d52-6914-cad6832f5e4e)\n* [1867-1888, by Pieter Oosterhuis](https://archief.amsterdam/beeldbank/detail/53da5911-e30e-648d-736a-f6130e051e6f)",
+                "rights": {
+                    "accessRights": "Open Access - Unrestricted Access",
+                    "license": "Creative Commons",
+                    "rightsHolder": "[4DRL](http://www.4dresearchlab.nl/)"
+                },
+                "subject": [
+                    "Amsterdam",
+                    "Dutch History",
+                    "Social History",
+                    "Orphanage"
+                ],
+                "title": "Diaconie Weeshuis"
+            },
+            "isVisible": true,
+            "siteId": {
+                "$oid": "64649d1ef24ec1b737dcc48d"
+            },
+            "title": "Diaconie Weeshuis",
+            "projectName": "Diaconie Weeshuis",
+            "projectLink": "project_diaconie-weeshuis.html"
+        },
+        "projectId": "64649d20f24ec1b737dcc494",
+        "editionId": "64649d20f24ec1b737dcc495",
+        "isPublished": true,
+        "settings": {
+            "authorTool": {
+                "name": "voyager",
+                "sceneFile": "scene.svx.json",
+                "version": "0.21.1p"
+            }
+        }
+    },
+    {
+        "template": "p3d-text.html",
+        "title": "About the PURE 3D Project",
+        "file_name": "about.html"
+        
+    }
+]
