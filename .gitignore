@@ -6,5 +6,5 @@
 # Node artifact files
 node_modules/
 
-p3d/copy/data/
-p3d/_dist/data/
+p3d/copy/project/
+p3d/_dist/project/
